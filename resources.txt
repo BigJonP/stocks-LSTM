@@ -1,0 +1,5 @@
+1. https://pypi.org/project/yfinance/ -> loading stocks data
+2. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html -> creating a train/test split validation dataframes
+3. https://pytorch.org/docs/stable/generated/torch.from_numpy.html -> converting numpy arrays to tensors
+4. https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html -> LSTMs with pytorch
+5. https://pytorch.org/docs/stable/optim.html -> using optimizers in pytorch (and loss functions)
