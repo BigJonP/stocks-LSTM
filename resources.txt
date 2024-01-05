@@ -10,4 +10,5 @@
 10. https://pytorch.org/docs/stable/optim.html -> using optimizers in pytorch (and loss functions)
 11. https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/ -> adam optimization algorithm
 12. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html visualizing result with matplotlib 
+13. https://optuna.readthedocs.io/en/stable/tutorial/index.html hyperparameter optimization (optuna)
 
